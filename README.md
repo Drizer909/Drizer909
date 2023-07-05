@@ -7,8 +7,6 @@
 
 💻 I am a self taught MLops and a ios developer
 
-working in HCLtech -- data analysis
-
 📚 Currently doing bachelors in computer science from Sushant University(3rd)
 
 📝 I have a strong interest in generating deepLearning model/ar/ios…
