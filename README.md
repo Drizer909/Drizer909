@@ -7,6 +7,7 @@
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/></td>
+    <td>[![An image of @drizer909's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drizer909)](https://holopin.io/@drizer909)</td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img src="https://github.com/Drizer909/Drizer909/assets/100469278/2a8194b9-633d-45c1-bb67-e9598a5c68f4" width="300"/>
   </tr>
